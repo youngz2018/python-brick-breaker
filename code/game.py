@@ -14,7 +14,8 @@ class Game(tk.Canvas):
     barSpeed = 10
 
     # Ball property
-    ballSpeed = 7
+    ballSpeed = 10
+    # origin speed is 7, changed by zhaoyang
 
     # Bricks properties
     bricks = []
